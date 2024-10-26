@@ -120,6 +120,7 @@ int main() {
     int su=sum1(root);
     cout<<"Another way also give sum = "<<su<<endl;
     int count0=0;
+    
     int leafTotal=countLeafNode(root,count0);
     cout<<"Total leaf node : "<<leafTotal;
     
