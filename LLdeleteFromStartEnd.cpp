@@ -13,6 +13,7 @@ struct Node{
   }
   
 };
+
 int main() 
 {
   Node* n1=new Node(2);
